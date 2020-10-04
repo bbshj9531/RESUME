@@ -21,4 +21,7 @@
 * 오픈소스
 * 딥러닝
 * 블록체인
+------------------
+* jupyter notebook
+* tensorflow
 
