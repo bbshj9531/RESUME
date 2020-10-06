@@ -28,6 +28,8 @@
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
 
 
+github address: [B-BS][github]
 
+[github]:http://github.com/bbshj9531
 
 
