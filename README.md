@@ -1,5 +1,11 @@
 # 한림대학교 소프트웨어융합대학
 ---
-![이력서사진](bbs.jpg)
+<img src=bbs.jpg width=150 height=200>
+배병선  
 
-<img src=bbs.jpg height=150 width=150>
+---  
+
+소속 : 소프트웨어 융합대학  
+전공 : 빅데이터 전공  
+
+
