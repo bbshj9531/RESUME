@@ -11,27 +11,28 @@
 학년 : 4   
 
 <h4>관심분야</h4>
-* 데이터베이스
-* 웹프로그래밍
+* 데이터베이스   
+* 웹프로그래밍   
 
-프로그래밍 언어 스킬   
-1. C, C++
-2. Java
-3. Python
-4. R
+<h4>프로그래밍 언어 스킬</h4>   
+1. C, C++   
+2. Java   
+3. Python   
+4. R   
 
 ------
 
-<h4>2020년도 1학기 수강과목</h4>
+<h4>2020년도 1학기 수강과목</h4>   
+
 |과목|내용|학점|
 |---|---|---|
-|웹프로그래밍|자바스크립트, html|3|
-|오픈소스SW의 이해|다양한 오픈소스|3|
-|캡스톤디자인|팀프로젝트|3|
+|웹프로그래밍|자바스크립트, html|3|   
+|오픈소스SW의 이해|다양한 오픈소스|3|   
+|캡스톤디자인|팀프로젝트|3|   
 
-e-mail : bbshj9531@naver.com   
-github address: [B-BS][github]
+e-mail : bbshj9531@naver.com    
+github address: [B-BS][github]  
 
-[github]:http://github.com/bbshj9531
+[github]:http://github.com/bbshj9531   
 
 
