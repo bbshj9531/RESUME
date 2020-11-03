@@ -1,5 +1,3 @@
-# 한림대학교 소프트웨어융합대학
----
 <img src=bbs.jpg width=150 height=200>
 <h3>이름 : 배병선</h3>
 
